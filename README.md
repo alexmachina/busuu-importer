@@ -1,6 +1,7 @@
 # Busuu - Todoist Importer
 
-Importadorzinho meio manual, que cria as lições do Busuu no meu Todoist.
+Importa as lições de japonês do Busuu como tarefas no seu Todoist.
+![](busudoist.gif)
 
 ## Transforma isso
 

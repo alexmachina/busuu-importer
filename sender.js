@@ -131,7 +131,7 @@ const createMyProject = async (apiKey) => {
   const { apiKey } = await inquirer.prompt([
     {
       name: "apiKey",
-      type: "input",
+      type: "password",
       message: `Digite sua 🔑 do ${chalk.redBright("Todoist")}:`,
     },
   ]);
